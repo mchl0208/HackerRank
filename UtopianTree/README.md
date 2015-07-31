@@ -11,7 +11,7 @@ Now, a new Utopian Tree sapling is planted at the onset of spring. Its height is
 The first line contains an integer, T, the number of test cases. 
 T lines follow; each line contains an integer, N, that denotes the number of cycles for that test case.
 
-###Constraints 
+##Constraints 
 1≤T≤10 
 0≤N≤60
 Output Format
