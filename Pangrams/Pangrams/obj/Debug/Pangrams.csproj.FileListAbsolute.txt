@@ -1,0 +1,6 @@
+C:\Users\mmrosario\Dropbox\HackerRank\Pangrams\Pangrams\bin\Debug\Pangrams.exe.config
+C:\Users\mmrosario\Dropbox\HackerRank\Pangrams\Pangrams\bin\Debug\Pangrams.exe
+C:\Users\mmrosario\Dropbox\HackerRank\Pangrams\Pangrams\bin\Debug\Pangrams.pdb
+C:\Users\mmrosario\Dropbox\HackerRank\Pangrams\Pangrams\obj\Debug\Pangrams.csprojResolveAssemblyReference.cache
+C:\Users\mmrosario\Dropbox\HackerRank\Pangrams\Pangrams\obj\Debug\Pangrams.exe
+C:\Users\mmrosario\Dropbox\HackerRank\Pangrams\Pangrams\obj\Debug\Pangrams.pdb
